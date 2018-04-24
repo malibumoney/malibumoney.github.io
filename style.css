@@ -137,3 +137,16 @@ color: white;
 
 
 }
+
+
+html.club { 
+    background: url(club.jpg) no-repeat center center fixed; }
+
+
+
+body.club {
+
+    background-color: transparent;
+    color: white;
+
+}
