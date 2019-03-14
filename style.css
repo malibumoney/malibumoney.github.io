@@ -19,7 +19,7 @@ color: white;
 
 
 
-img.head {
+#head {
 
 height: auto;
 width: 30vw;
@@ -29,15 +29,22 @@ margin-left: auto;
 margin-right: auto;
 position: sticky;
 
+}
 
-   
+.center:hover {
 
-   
-
-
-
+    background-image: url("blackgroundcolor.jpg");
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
 }
+
+
 
 
 p{
@@ -105,6 +112,10 @@ html {
     background-size: cover;
 }
 
+
+
+
+
 div.footer {
    position: absolute;
    bottom:0px;
@@ -166,6 +177,7 @@ body.club {
 
 
 
+
 #footer {
     position: fixed;
     bottom: 0;
@@ -193,5 +205,22 @@ a.footer{
 color: black;
 text-decoration: none;
 
+
+}
+
+
+/* 
+
+
+.center:hover {
+
+    background-image: url("blackgroundcolor.jpg");
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
 }
