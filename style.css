@@ -166,6 +166,7 @@ body.club {
     position: fixed;
     bottom: 0;
     width: 0 auto ;
+    max-width: 100vw;
 
 }
 
