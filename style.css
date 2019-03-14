@@ -4,7 +4,6 @@ body {
 background-color: black;
 font-family: 'Playfair Display SC', serif;
 color: white;
-padding: 5px;
 min-height: 100%;
 
 
@@ -174,7 +173,7 @@ body.club {
 p.footer {
 
     text-align: center;
-    size: 8pt;
+    font-size: 10pt;
 
 }
 
