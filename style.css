@@ -381,6 +381,33 @@ p.whatwedo {
     }
   }
 
+
+div.letter {
+    width: 50%;
+    background-color: #e0e0e0;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+
+
+
+}
+
+@media screen and (max-width: 600px) {
+    div.letter {
+        width: 100%;
+
+    }
+}
+
+p.letter {
+    text-align: left;
+}
+
+
+
 /* 
 fffffff
 
