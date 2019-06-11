@@ -406,6 +406,10 @@ p.letter {
     text-align: left;
 }
 
+img.sig {
+    height: 50px;
+    width: auto;
+}
 
 
 /* 
