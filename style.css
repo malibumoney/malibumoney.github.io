@@ -231,9 +231,17 @@ div.content {
     
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
 
   }
 
+  p.information {
+      font-style: italic;
+      color:  black;
+
+  }
 
 
 
@@ -283,7 +291,11 @@ div.content {
     float: left;
     width: 33.33%;
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+    height: auto;
+    text-align: center;
+    border-left: 5px;
+    border-right: 5px;
+    border-color: lightgray;
   }
   
   /* Clear floats after the columns */
@@ -299,6 +311,16 @@ div.content {
       width: 100%;
     }
   }
+
+
+img.information {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 25%;
+    align-content: center;
+    
+
+}
 
 
 /* 
