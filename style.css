@@ -474,7 +474,7 @@ button.landing:hover {
     width: auto;
     margin: 0 auto;
     -webkit-transition-duration: 0.5s;
-  transition-duration: 0.5s;
+    transition-duration: 0.5s;
     font-style: oblique;
 
 
