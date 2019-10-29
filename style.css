@@ -480,6 +480,12 @@ button.landing:hover {
 
 }
 
+img.person {
+    width: 100%;
+    display: block;
+    height: auto;
+}
+
 
 
 /* f
